@@ -1,4 +1,4 @@
-# Guia HTML5
+# Guia Rápido - HTML5
 
 ## 1. Introdução
 HTML5 é a versão mais recente da linguagem de marcação Hypertext Markup Language, utilizada para estruturar e apresentar conteúdo na World Wide Web. Introduzido em outubro de 2014, o HTML5 trouxe uma série de inovações que permitiram a criação de sites e aplicações web mais interativos, acessíveis e funcionais, sem a necessidade de plugins externos. Com recursos para multimídia, gráficos, jogos, armazenamento offline e suporte a dispositivos móveis, HTML5 é uma ferramenta indispensável para desenvolvedores web modernos.
