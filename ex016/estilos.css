@@ -1,0 +1,12 @@
+/* Aplica estilos ao primeiro h1 */
+h1.primeiro {
+    font-size: 20px;
+    color: rgb(255, 98, 0);
+  }
+  
+  /* Aplica estilos ao segundo h1 */
+  h1.segundo {
+    font-size: 15px;
+    color: rgb(33, 11, 98);
+  }
+  
